@@ -12,5 +12,8 @@ Result
 ![image](https://user-images.githubusercontent.com/117968798/233187535-56508a15-5345-4b5b-9c62-6aa5934bc437.png)
 
 
+Convergence graph:
+![image](https://user-images.githubusercontent.com/117968798/233188016-c91dec35-9517-4dfd-90bd-5e81ceca070e.png)
 
+Best accuracy of 0.88 having kernel = rbf, Nu = 0.18 and Epsilon = 0.69
 
