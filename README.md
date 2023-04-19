@@ -9,7 +9,7 @@ Number of Instances:14980
 Number of Attributes:15
 
 Result
-![image](https://user-images.githubusercontent.com/117968798/233187535-56508a15-5345-4b5b-9c62-6aa5934bc437.png)
+![image](https://user-images.githubusercontent.com/117968798/233188489-708b27d8-1d54-42ae-8a1b-fad6bbd1877c.png)
 
 
 Convergence graph:
@@ -17,3 +17,6 @@ Convergence graph:
 
 Best accuracy of 0.88 having kernel = rbf, Nu = 0.18 and Epsilon = 0.69
 
+Jatin Narula
+102053051
+coe26
