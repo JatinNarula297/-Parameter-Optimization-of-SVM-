@@ -8,6 +8,9 @@ link for dataset:https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 Number of Instances:14980
 Number of Attributes:15
 
+Result
+![image](https://user-images.githubusercontent.com/117968798/233187535-56508a15-5345-4b5b-9c62-6aa5934bc437.png)
+
 
 
 
